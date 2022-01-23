@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Oriol Agost, and right now I'm a computer science student in Universitat de Lleida.
+- 📫 How to reach me: [oriolagobat@gmail.com](oriolagobat@gmail.com)
 
 <!--
 **oriolagobat/oriolagobat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
