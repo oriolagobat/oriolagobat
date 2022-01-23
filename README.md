@@ -2,8 +2,6 @@
 I'm Oriol Agost, and right now I'm a computer science student in Universitat de Lleida.
 - 📫 How to reach me: [oriolagobat@gmail.com](oriolagobat@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apioriolagobatanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **oriolagobat/oriolagobat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
