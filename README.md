@@ -10,6 +10,6 @@
 <a href="https://linkedin.com/in/oriolagobat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oriolagobat" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oriolagobat&show_icons=true&locale=en&layout=compact" alt="oriolagobat" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oriolagobat&show_icons=true&locale=en" alt="oriolagobat" /></p>
